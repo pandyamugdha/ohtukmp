@@ -1,0 +1,9 @@
+
+column name, explanation
+tweet_id, the tweet ID to retrieve the tweet
+H1 - H3, hostility annotations (individual)
+H1_conf - H3_conf, hostility annotation confidence scores
+I1 - I3, identity characteristics annotations (individual)
+I1_conf - I3_conf, identity characteristics annotation confidence scores
+H_set1 - H_set3, gold hostility labels for set 1, set 2, set 3
+I_set1 - I_set3, gold identity characteristics labels for set 1, set 2, set 3
